@@ -1,17 +1,20 @@
 [
   {
-    "ID": "6530251065",
     "name": "pawarit pitilerchanasin",
-    "sec": "800"
+    "title": "Internet Programming Lecturer",
+    "Phone": "66+ 65 316 4159",
+    "Email": "pitilerchanasin@gmail.com"
   },
   {
-    "ID": "6530251014",
     "name": "Kankanit Puton",
-    "sec": "800"
+    "title" :"Internet Programming Lecturer",
+    "Phone" : "66+ 085 166 4572",
+    "Email" : "Katangputsornarm9@gmail.com"
   },
   {
-    "ID": "6530251103",
     "name": "Woraphon Pruttharat",
-    "sec": "800"
+    "title": "Internet Programming Lecturer",
+    "Phone": "66+ 95 385 9342",
+    "Email" : "worapol.pru@ku.th"
   }
 ]
